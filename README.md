@@ -1,4 +1,10 @@
 # GetParameter
+
+# Usage
+to use this php simply enter your name and age into the url like so
+localhost/main.php?firstname=Lance&lastname=Page&age=23
+
+# Description
 Create your own page that is capable of receiving three GET parameters:
 
 1) firstname
